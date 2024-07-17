@@ -1,0 +1,35 @@
+.maincontent {
+  display: flex;
+  justify-content: space-between;
+  align-items: left;
+  width: 100%;
+  max-width: 1200px;
+  padding: 50px 21px;
+}
+.text {
+  max-width: 600px;
+}
+.title {
+  font-size: 2.75em;
+  font-weight: 900;
+  text-align: left;
+  padding-left: 80px;
+}
+.description {
+  font-size: 1.55em;
+  margin-top: -10px;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: justify;
+  padding-left: 80px;
+}
+.imagesection {
+  max-width: 900px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 100%;
+  border-radius: 10px;
+}

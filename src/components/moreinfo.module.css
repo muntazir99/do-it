@@ -1,0 +1,12 @@
+.container {
+  text-align: right;
+  justify-content: right;
+  padding-right: 10px;
+  padding-bottom: 7px;
+}
+.moreinfobutton {
+  background-color: #c5e3e0;
+  border-radius: 10px;
+  color: #000;
+  cursor: pointer;
+}

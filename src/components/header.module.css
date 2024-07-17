@@ -1,0 +1,33 @@
+.headercontainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: white;
+}
+.logo {
+  font-size: 1.2rem;
+  font-family: Lora;
+  opacity: 1;
+  padding-left: 60px;
+}
+.navlinkul {
+  list-style: none;
+  display: flex;
+  gap: 65px;
+  padding-top: 12px;
+  padding-right: 100px;
+}
+.navlinka {
+  color: #333;
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 20px;
+  opacity: 0.6;
+}
+.navlinkl {
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}

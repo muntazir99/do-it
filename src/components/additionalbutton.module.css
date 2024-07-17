@@ -1,0 +1,17 @@
+.additionalservicesbutton {
+  background-color: #cbe4e4;
+  color: #000;
+  font-weight: bold;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.additionalservicesbutton:hover {
+  background-color: #b4d1d1;
+}
+.container {
+  padding-left: 1143px;
+}
